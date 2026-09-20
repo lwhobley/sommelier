@@ -13,10 +13,7 @@
       }
     },
     "android": {
-      "package": "com.venuewrangler.sommeliertrainingacademy",
-      "adaptiveIcon": {
-        "backgroundColor": "#120D0E"
-      }
+      "package": "com.venuewrangler.sommeliertrainingacademy"
     },
     "extra": {
       "eas": {

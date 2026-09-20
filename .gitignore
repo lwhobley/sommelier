@@ -31,3 +31,5 @@ Thumbs.db
 
 # Expo and EAS
 .expo/
+/android/
+/ios/
